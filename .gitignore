@@ -1,1 +1,10 @@
-
+.env
+*.log
+*.tmp
+*.bak
+temp-*
+/.vscode
+.idea
+!.gitignore
+*.o
+*.out
